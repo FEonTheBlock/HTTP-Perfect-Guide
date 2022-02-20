@@ -97,18 +97,23 @@ HTTP(Hypertext Transfer ProtocoI)는
 
 ```xml
 http://purl.oclc.org/abcdefghijklm
-             ----   ------------- -------------
-              /           |             \
-       protocol   resolver address     name
+----   ------------- -------------
+  /           |             \
+protocol  resolver address   name
 
 URN:hdl:ABCDEFGHIJKLMNOP/abcdefghijklm
-                ---------------- -------------
-                        |              |
-                naming authority      name
+        ---------------- -------------
+              |              |
+        naming authority    name
 ```
 
 **URN 예시**
 
 **http://purl.oclc.org/keith/home**
 
-⇒ 구글 docs 리다이렉션
+⇒ 해당 링크를 브라우저에서 사용하면 purl이 구글 docs 파일로 리다이렉션한다.
+
+## 더 알아봐야할 것
+
+- TCP-IP, UDT 통신
+- 아직까지 URN이 상용화되지 못하는 이유
