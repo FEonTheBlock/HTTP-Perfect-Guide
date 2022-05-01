@@ -1,0 +1,3 @@
+# HTTP 11주차 정리 주소
+
+https://velog.io/@hustle-dev/HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%82%B4%EC%9A%A9-%ED%98%91%EC%83%81%EA%B3%BC-%ED%8A%B8%EB%9E%9C%EC%8A%A4%EC%BD%94%EB%94%A9
